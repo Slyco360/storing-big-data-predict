@@ -16,7 +16,7 @@ import json
 
 # ======================== EDIT THIS SECTION ========================================
 # Insert your SNS topic ARN below
-sns_arn = "arn:aws:sns:your:topic:here" 
+sns_arn = "arn:aws:sns:your:topic:arn:aws:sns:eu-west-1:445492270995:DEMOKMAM-sns-topic:b874a0a3-6314-42ae-97fe-86e7810ed1b2" 
 # Insert your full name and surname for marking purposes
 student_name = "Dora Explorer" 
 # ===================================================================================

@@ -1,0 +1,12 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Parameters:
+  EnvironmentName:
+    Type: String
+    Default: DE-Extract
+  VpcCIDR:
+    Type: String
+    Default: 192.168.0.0/16
+  DataCenterPublicSubnetCIDR:
+    Type: String
+    Default: 192.168.10.0/24
+

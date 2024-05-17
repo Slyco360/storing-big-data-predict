@@ -1,16 +1,3 @@
-"""
-    Storing Big Data: Predict Part-2, Streaming Lambda.
-    Author: Explore Data Science Academy.
-
-    Description:
-
-    This script provides functionality to generate a stream of synthetic 
-    ticker data, representing real-time stock market data for various 
-    ticker indexes. 
-
-    For guidance on how to use this script, please see the provided
-    predict part-2 instructions.  
-"""  
 
 import logging
 from datetime import datetime, timedelta
